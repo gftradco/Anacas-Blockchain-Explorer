@@ -1,4 +1,6 @@
-# Nióbio Cash -Blockchain-Explorer
+# Anacas Steel Blockchain Explorer
+Thank you Nióbio Cash -Blockchain-Explorer
+<!---
 Block explorer for Nióbio Cash CryptoNote based cryptocurrency.
 
 #### Installation
@@ -8,3 +10,4 @@ Block explorer for Nióbio Cash CryptoNote based cryptocurrency.
 ./niobiod --restricted-rpc --enable-cors=* --enable-blockchain-indexes --rpc-bind-ip=0.0.0.0 --rpc-bind-port=32348
 ```
 2) Just upload to your website and change 'api' variable in config.js to point to your daemon.
+--->
